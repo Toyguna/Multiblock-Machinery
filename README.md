@@ -49,7 +49,7 @@ for each type of Machine Controller.
 ## Other notes:
 Recipe Customizability:
  - Input ingredients (Items/Fluid ; can be multiple)
- - Output result (Items/Fluid/Energy ; can be multiple)
+ - Output result (Items/Fluid/EU-RF ; can be multiple)
  - Process time (in ticks)
  - Energy requirement (RF / EU ; conversion can be enabled)
  - Void upon energy failure?
