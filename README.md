@@ -1,1 +1,32 @@
-# Multiblock-Machinery
+# Multiblock Machinery
+
+
+## What is Multiblock Machinery?
+Multiblock Machinery is a mod designed
+for modpack makers in mind.
+
+The mod allows the user to create highly
+customizable custom multiblock machines
+with custom recipes, structures (including
+blocks and size), textures via the use of JSON 
+files for functionality, PNG files for 
+custom texture and MP3 files for custom
+sounds. (No custom texture or sfx are 
+required; as a catalogue of selectable 
+sounds and textures are already loaded in 
+with the mod. 
+
+
+## How customizable are the multiblocks?
+The mod is designed with the user in mind.
+The customization options are very wide as
+the mod allows you to customize the multiblock
+so much so that the multiblock may almost have 
+no tracable trademark left from the mod.
+
+A multiblock's functionality
+can be customized the following ways:
+ - Recipes
+ - Size and Structure
+ - Textures
+ - Sounds
