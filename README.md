@@ -33,6 +33,7 @@ can be customized the following ways:
  - Recipe voiding result upon full output?
  - Recipe voiding result upob no appropriate
 output?
+ - Rain sensitive?
 
 
 ## Other notes:
@@ -41,6 +42,10 @@ Recipe Customizability:
  - Output result (Items/Fluid ; can be multiple)
  - Process time (in ticks)
  - Energy requirement (RF / EU ; conversion can be enabled)
- - Void upon failure?
+ - Void upon energy failure?
  - Reset progress upon energy failure?
+
+The functionality will change depending on
+structure blocks. (ex. Exhaust Vent will require an
+open air block next to it to function.)
  
