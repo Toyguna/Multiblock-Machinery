@@ -32,11 +32,13 @@ can be customized the following ways:
  - Size and Structure
  - Textures
  - Sounds
- - Recipe voiding result upon full output buffer
- - Recipe voiding result upon no appropriate
+ - Misc. (
+   Recipe voiding result upon full output buffer
+   Recipe voiding result upon no appropriate
 output block
- - Rain sensitivity
- - Machine upgrades compatability
+   Rain sensitivity
+   Machine upgrades compatability
+)
 
 
 ## Other Additions:
