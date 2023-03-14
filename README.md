@@ -12,7 +12,7 @@ blocks and size), textures and more; via the use of JSON
 files for functionality, PNG files for 
 custom texture and MP3 files for custom
 sounds. (No custom texture or sfx are 
-required; as a catalogue of selectable 
+necessarily required; as a catalogue of selectable 
 sounds and textures are already loaded in 
 with the mod. 
 
@@ -30,11 +30,11 @@ can be customized the following ways:
  - Size and Structure
  - Textures
  - Sounds
- - Recipe voiding result upon full output?
- - Recipe voiding result upob no appropriate
-output?
- - Rain sensitive?
- - Machine upgrades allowance
+ - Recipe voiding result upon full output buffer
+ - Recipe voiding result upon no appropriate
+output block
+ - Rain sensitivity
+ - Machine upgrades compatability
 
 
 ## Other Additions:
@@ -56,7 +56,7 @@ Recipe Customizability:
  - Reset progress upon energy failure?
  - Required weather (Rain, Thunder, Sunny)
  - Required time (Day, Night)
- - Daylight scaling factor
+ - Day scaling factor
  - Night scaling factor
 
 The functionality will change depending on
@@ -66,5 +66,11 @@ open air block next to it to function.)
 The custom mutliblocks have some default
 functionality that can't be modified:
  - Multiblock process disabling (via a
-soft mallet or a GT version)
+wrench or a GT soft mallet)
  
+The multiblocks are designed similarily
+to of GregTech's.
+
+
+## Future plans:
+ - GregTech voltage support.
