@@ -2,8 +2,11 @@
 
 
 ## What is Multiblock Machinery?
-Multiblock Machinery is a mod designed
-for modpack makers in mind.
+Multiblock Machinery is a Minecraft 
+mod that enables users to create custom
+multiblocks with custom functionality
+with ease. This mod is designed with 
+modpack makers in mind.
 
 The mod allows the user to create highly
 customizable custom multiblock machines
