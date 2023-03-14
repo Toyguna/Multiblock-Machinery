@@ -8,7 +8,7 @@ for modpack makers in mind.
 The mod allows the user to create highly
 customizable custom multiblock machines
 with custom recipes, structures (including
-blocks and size), textures via the use of JSON 
+blocks and size), textures and more; via the use of JSON 
 files for functionality, PNG files for 
 custom texture and MP3 files for custom
 sounds. (No custom texture or sfx are 
@@ -30,3 +30,17 @@ can be customized the following ways:
  - Size and Structure
  - Textures
  - Sounds
+ - Recipe voiding result upon full output?
+ - Recipe voiding result upob no appropriate
+output?
+
+
+## Other notes:
+Recipe Customizability:
+ - Input ingredients (Items/Fluid ; can be multiple)
+ - Output result (Items/Fluid ; can be multiple)
+ - Process time (in ticks)
+ - Energy requirement (RF / EU ; conversion can be enabled)
+ - Void upon failure?
+ - Reset progress upon energy failure?
+ 
