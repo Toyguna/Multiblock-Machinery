@@ -40,16 +40,24 @@ output?
 ## Other Additions:
  - Machine upgrades
  - Machine detector covers
+ - I/O Energy Hatches, Liquid Hatches and 
+Item Buses with different tiers.
+ - Different crafting recipes 
+for each type of Machine Controller.
 
 
 ## Other notes:
 Recipe Customizability:
  - Input ingredients (Items/Fluid ; can be multiple)
- - Output result (Items/Fluid ; can be multiple)
+ - Output result (Items/Fluid/Energy ; can be multiple)
  - Process time (in ticks)
  - Energy requirement (RF / EU ; conversion can be enabled)
  - Void upon energy failure?
  - Reset progress upon energy failure?
+ - Required weather (Rain, Thunder, Sunny)
+ - Required time (Day, Night)
+ - Daylight scaling factor
+ - Night scaling factor
 
 The functionality will change depending on
 structure blocks. (ex. Exhaust Vent will require an
