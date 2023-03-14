@@ -2,8 +2,9 @@
 
 
 ## What is Multiblock Machinery?
-Multiblock Machinery is a Minecraft 
-mod that enables users to create custom
+Multiblock Machinery is a Minecraft fabric
+( forge backports are planned ) mod 
+that enables users to create custom
 multiblocks with custom functionality
 with ease. This mod is designed with 
 modpack makers in mind.
@@ -33,11 +34,9 @@ can be customized the following ways:
  - Textures
  - Sounds
  - Misc. (
-   Recipe voiding result upon full output buffer
-   , Recipe voiding result upon no appropriate
-output block
-   , Rain sensitivity
-   , Machine upgrades compatability
+   Recipe voiding result upon full output buffer, 
+Recipe voiding result upon no appropriate
+output block, Rain sensitivity, Machine upgrades compatability
 )
 
 
@@ -78,3 +77,4 @@ to of GregTech's.
 
 ## Future plans:
  - GregTech voltage support.
+ - Backport to forge 1.12.2
