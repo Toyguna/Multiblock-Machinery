@@ -67,5 +67,4 @@ The custom mutliblocks have some default
 functionality that can't be modified:
  - Multiblock process disabling (via a
 soft mallet or a GT version)
- - 
  
