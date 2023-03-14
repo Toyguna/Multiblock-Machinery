@@ -21,7 +21,6 @@ with the mod.
 
 
 ## How customizable are the multiblocks?
-The mod is designed with the user in mind.
 The customization options are very wide as
 the mod allows you to customize the multiblock
 so much so that the multiblock may almost have 
