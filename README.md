@@ -34,6 +34,12 @@ can be customized the following ways:
  - Recipe voiding result upob no appropriate
 output?
  - Rain sensitive?
+ - Machine upgrades allowance
+
+
+## Other Additions:
+ - Machine upgrades
+ - Machine detector covers
 
 
 ## Other notes:
@@ -48,4 +54,10 @@ Recipe Customizability:
 The functionality will change depending on
 structure blocks. (ex. Exhaust Vent will require an
 open air block next to it to function.)
+
+The custom mutliblocks have some default
+functionality that can't be modified:
+ - Multiblock process disabling (via a
+soft mallet or a GT version)
+ - 
  
