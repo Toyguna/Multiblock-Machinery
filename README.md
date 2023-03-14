@@ -34,10 +34,10 @@ can be customized the following ways:
  - Sounds
  - Misc. (
    Recipe voiding result upon full output buffer
-   Recipe voiding result upon no appropriate
+   , Recipe voiding result upon no appropriate
 output block
-   Rain sensitivity
-   Machine upgrades compatability
+   , Rain sensitivity
+   , Machine upgrades compatability
 )
 
 
